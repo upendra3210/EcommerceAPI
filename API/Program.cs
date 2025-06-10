@@ -4,7 +4,6 @@ using Infrastructure.Data;
 using Infrastructure.IRepositery;
 using Infrastructure.Repositery;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 using Serilog;
 using Serilog.Sinks.AwsCloudWatch;
 

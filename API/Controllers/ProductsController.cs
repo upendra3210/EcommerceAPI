@@ -1,9 +1,6 @@
 ﻿using Core.Entities;
-using Infrastructure.Data;
 using Infrastructure.IRepositery;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
